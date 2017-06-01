@@ -2,7 +2,7 @@
 
 This is the "Let's Code Blacksburg! Arduino Cookbook" recipes (code) listing that accompanies
 our PDF handbook:
-https://github.com/LetsCodeBlacksburg/arduino-recipes/blob/master/2016-07-11_LCBB_Arduino_Cookbook.pdf
+https://github.com/LetsCodeBlacksburg/arduino-recipes/blob/master/LCBB_Arduino_Cookbook.pdf
 
 Other related PDFs in here are for various recipe-reliant build docs, classroom overviews and related topics.
 
